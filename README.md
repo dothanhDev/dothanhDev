@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dothanhdev&label=Profile%20views&color=0e75b6&style=flat" alt="dothanhdev" /> </p>
 
-- 🔭 I’m currently working on **doThanh**
+- 🔭 I’m currently working on **My Computer**
 
 - 🤝 I’m looking for help with **xSew**
 
-- 💬 Ask me about **react nodejs**
+- 💬 Ask me about **React Nodejs**
 
 - 📫 How to reach me **thanhdq2003@gmail.com**
 
