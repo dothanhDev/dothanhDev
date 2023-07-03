@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đỗ Thanh! totoro</h1>
-<h3 align="center">A passionate Web developer from VietNam</h3>
+<h3 align="center">I'm trying to be a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dothanhdev&label=Profile%20views&color=0e75b6&style=flat" alt="dothanhdev" /> </p>
 
